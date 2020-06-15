@@ -1,5 +1,23 @@
 <html>
 <head>
+<SCRIPT language="JavaScript">
+<!--hide
+
+var password;
+
+var pass1="pknw1plex";
+
+password=prompt('Please enter your password to view this page!',' ');
+
+if (password==pass1)
+  alert('Password Correct! Click OK to enter!');
+else
+   {
+    window.location="https://www.pknw1.com";
+    }
+
+//-->
+</SCRIPT>
 <title>
 RAWeb - Remote Applications
 </title>
